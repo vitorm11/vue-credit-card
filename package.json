@@ -21,9 +21,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiago-Malaca/vue-credit-card"
+    "url": "https://github.com/vitorm11/vue-credit-card"
   },
-  "author": "Thiago Malaquias <thiago.malaca@gmail.com>",
   "dependencies": {
     "vue": "^2.1.0",
     "bourbon": "^4.2.7",
@@ -102,7 +101,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiago-Malaca/vue-credit-card/issues"
+    "url": "https://github.com/vitorm11/vue-credit-card/issues"
   },
-  "homepage": "https://github.com/thiago-Malaca/vue-credit-card#readme"
+  "homepage": "https://github.com/vitorm11/vue-credit-card#readme"
 }
